@@ -1,0 +1,1401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="NumApt_1">
+        <item>"A clock shows the time as 6 a.m. If the minute hand gains 2 minutes every hour, how many minutes will the clock gain by 9 p.m.?"</item>
+        <item>"If 250 is increased to 300, what is the percentage increase?"</item>
+        <item>"The ratio of 9 seconds to 10 hours is"</item>
+        <item>"If a quarter kilogram costs Rs. 60 then how much will cost for 150 grams?"</item>
+        <item>"Five times an unknown number is 5 less than 50. The unknown number"</item>
+        <item>"If 10 cats can kill 10 rats in 10 minutes how long will it take 100 cats to kill 100rats."</item>
+        <item>"Find the sum of first 100 natural numbers"</item>
+        <item>"The sum of two consecutive numbers is 55,which is the largest number?"</item>
+        <item>"What is the chance of getting a 2 or 4 in rolling a die?"</item>
+        <item>"A student has to secure 40 % marks to pass. He gets 150 marks and fails by 30 marks. What is the maximum marks?"</item>
+        <item>"Rs. 1581 is divided among A, B and C in the ratio 10 : 15 : 6. What is the share of B?"</item>                      10
+        <item>"The sum of four consecutive counting numbers is 154. Find the smallest number:"</item>
+        <item>"(42)2÷6.3 x 26 =?"</item>
+        <item>"35% of ? = 242"</item>
+        <item>"If the value of x lies between 0 and 1 which of the following is the largest? "</item>
+    </string-array>
+
+    <string-array name="Numapt_1_opt_A">
+        <item>"30 minutes  "</item>
+        <item>"16.67       "</item>
+        <item>"1:40        "</item>
+        <item>"Rs 30       "</item>
+        <item>"10          "</item>
+        <item>"1 minutes   "</item>
+        <item>"5050        "</item>
+        <item>"25          "</item>
+        <item>"2/3         "</item>
+        <item>"400         "</item>
+        <item>"306         "</item>
+        <item>"36          "</item>
+        <item>"7182        "</item>
+        <item>"729         "</item>
+        <item>"X           "</item>
+
+    </string-array>
+
+    <string-array name="Numapt_1_opt_B">
+        <item>"25 minutes  "</item>
+        <item>" 20         "</item>
+        <item>"1:4000      "</item>
+        <item>"Rs 24       "</item>
+        <item>"11          "</item>
+        <item>"10 minutes  "</item>
+        <item>"5005        "</item>
+        <item>"28          "</item>
+        <item>"1/6         "</item>
+        <item>"500         "</item>
+        <item>"765         "</item>
+        <item>"37          "</item>
+        <item>"7269        "</item>
+        <item>"652         "</item>
+        <item>"X²         "</item>
+
+    </string-array>
+
+    <string-array name="Numapt_1_opt_C">
+        <item>"28 minutes  "</item>
+        <item>"23          "</item>
+        <item>"9:10        "</item>
+        <item>"Rs 36       "</item>
+        <item>"9           "</item>
+        <item>"100 minutes "</item>
+        <item>"9900        "</item>
+        <item>"26          "</item>
+        <item>"1/3         "</item>
+        <item>"475         "</item>
+        <item>"700         "</item>
+        <item>"38          "</item>
+        <item>"7260        "</item>
+        <item>"693         "</item>
+        <item>"-X          "</item>
+
+    </string-array>
+
+    <string-array name="Numapt_1_opt_D">
+        <item>"34 minutes  "</item>
+        <item>"17          "</item>
+        <item>"1:400       "</item>
+        <item>"Rs 40       "</item>
+        <item>"5           "</item>
+        <item>"1000 minutes"</item>
+        <item>"9050        "</item>
+        <item>"27          "</item>
+        <item>"1/2         "</item>
+        <item>"450         "</item>
+        <item>"510         "</item>
+        <item>"31          "</item>
+        <item>"7280        "</item>
+        <item>"759         "</item>
+        <item>"1/X         "</item>
+
+    </string-array>
+
+    <string-array name="Numapt_Answers_1">
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"3"</item>
+        <item>"2"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"2"</item>
+        <item>"4"</item>
+        <item>"2"</item>
+        <item>"2"</item>
+        <item>"4"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+    </string-array>
+
+    <string-array name="Numapt_2">
+        <item>"Given below is a  sequence of numbers with an unknown x :0, 1, 1, 2, 3, 5, 8, 13, x, 34"</item>
+        <item>"30% of x is 72. The value of x is:"</item>
+        <item>"Two pipes can fill a cistern separately in 10 hours and 15 hours.They can together fill the cistern in ? "</item>
+        <item>"A student was asked to find thearithmetic mean of the following 12 numbers :3, 11, 7, 9, 15, 13, 8, 19, 17,21, 14 and x . He found the mean to be 12. The value of x will be"</item>
+        <item>"A, B and C can complete a piece of work in 12, 24 and 36 days respectively. In how many days will they together complete the same work ?"</item>
+        <item>"The sixth term of the sequence 11, 13, 17, 19, 23, –, 29 is"</item>
+        <item>"2 is what percent of 50?"</item>
+        <item>"The sum of first five prime numbers is:"</item>
+        <item>"A father said to his son, "I was as old as you are at the present at the time of your birth". If the father's age is 38 years now, the son's age five years back was?"</item>
+        <item>"Value of 3^0! ? "</item>
+        <item>"Find the value of x if x⁰ + x² = 10"</item>
+        <item>"If you are ninth person from both the ends in a row, then how many persons are there in the row?"</item>
+        <item>"When a number is divided by 7, the remainder 4. When the same number is divided by 6, the remainder is 3. What is the number?"</item>
+        <item>"An item when sold for Rs 1169 earned 40% profit on the cost price. What is the cost price?"</item>
+        <item>"A monkey starts climbing up a tree 20ft tall. Each hour, it hops 3ft. and slips back 2ft. How much time would it take the monkey to reach the top?"</item>
+
+
+
+
+    </string-array>
+
+    <string-array name="Numapt_2_optA">
+        <item>"21"</item>
+        <item>"216"</item>
+        <item>"6 hours"</item>
+        <item>"3"</item>
+        <item>"5*(6/11) days"</item>
+        <item>"24"</item>
+        <item>"2%"</item>
+        <item>"11"</item>
+        <item>"14 years"</item>
+        <item>"0"</item>
+        <item>"4"</item>
+        <item>"1o"</item>
+        <item>"39"</item>
+        <item>"835 rs"</item>
+        <item>"18 hours"</item>
+
+
+    </string-array>
+
+    <string-array name="Numapt_2_optB">
+        <item>"20"</item>
+        <item>"240"</item>
+        <item>"7 hours"</item>
+        <item>"7"</item>
+        <item>"4 days"</item>
+        <item>"19"</item>
+        <item>"2.5%"</item>
+        <item>"18"</item>
+        <item>"19 years"</item>
+        <item>"1"</item>
+        <item>"3"</item>
+        <item>"15"</item>
+        <item>"37"</item>
+        <item>"701.4 rs"</item>
+        <item>"17 hours"</item>
+
+
+
+    </string-array>
+
+    <string-array name="Numapt_2_optC">
+        <item>"19"</item>
+        <item>"480"</item>
+        <item>"8 hours"</item>
+        <item>"17"</item>
+        <item>"6*(6/11) days"</item>
+        <item>"25"</item>
+        <item>"4%"</item>
+        <item>"26"</item>
+        <item>"33 years"</item>
+        <item>"3"</item>
+        <item>"2"</item>
+        <item>"17"</item>
+        <item>"48"</item>
+        <item>"840 rs"</item>
+        <item>"16 hours"</item>
+
+
+
+    </string-array>
+
+    <string-array name="Numapt_2_optD">
+        <item>"17"</item>
+        <item>"640"</item>
+        <item>"9 hours"</item>
+        <item>"31"</item>
+        <item>"6 days"</item>
+        <item>"22"</item>
+        <item>"5%"</item>
+        <item>"28"</item>
+        <item>"38 years"</item>
+        <item>"Infnity"</item>
+        <item>"1"</item>
+        <item>"19"</item>
+        <item>"56"</item>
+        <item>"Cannot be determined"</item>
+        <item>"20 hours"</item>
+
+
+
+    </string-array>
+
+
+    <string-array name="Numapt_Answers_2">
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"3"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"1"</item>
+        <item>"3"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"1"</item>
+    </string-array>
+
+
+    <string-array name="Numapt_3">
+        <item>"The difference between 6 times and 8 times of a number is 14. What is the figure?"</item>
+        <item>"A person lost 10% when he sold goods at Rs.153. For how much should he sell them to gain 20%?"</item>
+        <item>"A train of 100 meters long is running at thespeed of 36 km per hour. In what time it passes a bridge of 80 meters long?"</item>
+        <item>"If 75 % of a number is added to 75, the result is the number itself, then the number is:"</item>
+        <item>"A student was asked to add 16 and subtract 10 from a number.He by mistakeadded 10 and subtracted 16. If his answer is 14 what is the correct answer?"</item>
+        <item>"The percentage profit earned on an article by selling it at Rs. 960 was 20, what was the cost price of the article?"</item>
+        <item>" At present, Madhu is 15 years older than Kamal. After 5 years Kamal will be 10 years old. What is Madhu's present age? "</item>
+        <item>"A 180-meters long train crosses a man standing on the platform in 6 seconds. What is the speed of the train?"</item>
+        <item>"A shopkeeper purchased 200 bulbs for Rs.10 each. However, 5 bulbs were fusedand had to be thrown away. The remaining were sold at Rs.12 each. What will be the percentage profit?"</item>
+        <item>"Each side of a rectangle is increased by 100%. By what percentage does the area increase? (area of rectangele = lxb)"</item>
+        <item>"If A/B = 3/5,then 15A = ?"</item>
+        <item>"A computer printer produces 176400 lines in a given day. If the printer was in operation for 7hrs during the day how many lines did it print per minute?"</item>
+        <item>"Look at this series: 7, 10, 8, 11, 9, 12 , ? . What number should come next?"</item>
+        <item>"Which of the following is larger than 3/5?"</item>
+        <item>"The next number of the sequence 0, 3, 8,15, 24, 35,? is"</item>
+    </string-array>
+
+    <string-array name="Numapt_3_optA">
+        <item>"12"</item>
+        <item>"Rs. 204"</item>
+        <item>"30 seconds"</item>
+        <item>"250"</item>
+        <item>"20"</item>
+        <item>"Rs . 600"</item>
+        <item>"25 Years"</item>
+        <item>"90 km/h"</item>
+        <item>"25%"</item>
+        <item>"150%"</item>
+        <item>"9B"</item>
+        <item>"420 "</item>
+        <item>"7"</item>
+        <item>"1/2"</item>
+        <item>"46"</item>
+    </string-array>
+
+    <string-array name="Numapt_3_optB">
+        <item>"9"</item>
+        <item>"Rs.250"</item>
+        <item>"36 seconds"</item>
+        <item>"750"</item>
+        <item>"26"</item>
+        <item>"Rs . 900"</item>
+        <item>"10 Years"</item>
+        <item>"108 km/h"</item>
+        <item>"15%"</item>
+        <item>"200%"</item>
+        <item>"8B"</item>
+        <item>"425"</item>
+        <item>"10"</item>
+        <item>"39/50"</item>
+        <item>"47"</item>
+    </string-array>
+
+    <string-array name="Numapt_3_optC">
+        <item>"7"</item>
+        <item>"Rs.240"</item>
+        <item>"20 seconds"</item>
+        <item>"400"</item>
+        <item>"30"</item>
+        <item>"Rs . 840"</item>
+        <item>"20 Years"</item>
+        <item>"120 km/h"</item>
+        <item>"13%"</item>
+        <item>"300%"</item>
+        <item>"7B"</item>
+        <item>"422"</item>
+        <item>"12"</item>
+        <item>"3/10"</item>
+        <item>"48"</item>
+    </string-array>
+
+    <string-array name="Numapt_3_optD">
+        <item>"6"</item>
+        <item>"Rs.210"</item>
+        <item>"18 seconds"</item>
+        <item>"300"</item>
+        <item>"32"</item>
+        <item>"Rs . 800"</item>
+        <item>"10 Years"</item>
+        <item>"88 km/h"</item>
+        <item>"17%"</item>
+        <item>"400%"</item>
+        <item>"10B"</item>
+        <item>"430"</item>
+        <item>"13"</item>
+        <item>"59/100"</item>
+        <item>"50"</item>
+    </string-array>
+
+    <string-array name="Numapt_Answers_3">
+        <item>"3"</item>
+        <item>"1"</item>
+        <item>"4"</item>
+        <item>"4"</item>
+        <item>"2"</item>
+        <item>"4"</item>
+        <item>"3"</item>
+        <item>"2"</item>
+        <item>"4"</item>
+        <item>"4"</item>
+        <item>"1"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+    </string-array>
+
+    <string-array name="Compapt_1_Questions">
+        <item>"ALU full form is "</item>
+        <item>"VGA full form is "</item>
+        <item>"ASCII stands for"</item>
+        <item>"Which American computer company is called Big Blue?"</item>
+        <item>"CAD stands for"</item>
+        <item>"The personal computer industry was started by"</item>
+        <item>"Who is the father of computer?"</item>
+        <item>"Who is the father of Computer science?"</item>
+        <item>"The computer malware that disguises users by representing itself as legitimate software/program is known as "</item>
+        <item>"First generation Computers used ? "</item>
+        <item>"How many bytes does a 1 kilobyte contains?"</item>
+        <item>"Which among the number is not an octal number"</item>
+        <item>"Which is the fastest memory ?"</item>
+        <item>"First version of windows Operating system  was ? "</item>
+        <item>"What does the 'PC' stand for?"</item>
+
+
+    </string-array>
+
+    <string-array name="Compapt_1_OptA">
+        <item>"Arithmetic Logic Unit"</item>
+        <item>"Video Graphics Array"</item>
+        <item>"American Stable Code for International Interchange"</item>
+        <item>"Microsoft"</item>
+        <item>"Computer aided design"</item>
+        <item>"IBM"</item>
+        <item>"Abacus"</item>
+        <item>"Charles Babbage"</item>
+        <item>""SpyWare </item>
+        <item>"Vacume tubes"</item>
+        <item>"1000"</item>
+        <item>"645"</item>
+        <item>"Solid state disk"</item>
+        <item>"windows 1.x"</item>
+        <item>"Private Computer"</item>
+
+
+
+    </string-array>
+
+
+    <string-array name="Compapt_1_OptB">
+        <item>"Array Logic Unit"</item>
+        <item>"Video Graphics Array"</item>
+        <item>"American Standard Case for Institutional Interchange"</item>
+        <item>"Compaq Corp"</item>
+        <item>"Computer algorithm for design"</item>
+        <item>"Apple"</item>
+        <item>"John Napier"</item>
+        <item>"Edward Robert"</item>
+        <item>"AdWare"</item>
+        <item>"Transistors"</item>
+        <item>"1024"</item>
+        <item>"234"</item>
+        <item>"Hard disk"</item>
+        <item>" PC-DOS 1.0"</item>
+        <item>"Personal Computer"</item>
+
+
+
+
+    </string-array>
+
+
+    <string-array name="Compapt_1_OptC">
+        <item>"Application Logic Unit"</item>
+        <item>"Volatile Graphics Array"</item>
+        <item>"American Standard Code for Information Interchange"</item>
+        <item>"IBM"</item>
+        <item>"Computer application in design"</item>
+        <item>"Compaq"</item>
+        <item>"Charls Babbage"</item>
+        <item>"Alan Turing"</item>
+        <item>"Trojan"</item>
+        <item>"Integrated Circuits"</item>
+        <item>"1028"</item>
+        <item>"876"</item>
+        <item>"Cache memory"</item>
+        <item>"windows 95"</item>
+        <item>"Posh Computer"</item>
+
+
+
+
+    </string-array>
+
+    <string-array name="Compapt_1_OptD">
+        <item>"None of above"</item>
+        <item>"Video Graphics Adapter"</item>
+        <item>"American Standard Code for Interchange Information"</item>
+        <item>"Tandy Sven son"</item>
+        <item>"Computer applied design"</item>
+        <item>"HCL"</item>
+        <item>"Alan turing"</item>
+        <item>"Ken thompson"</item>
+        <item>"Worms"</item>
+        <item>"Analogue Switches"</item>
+        <item>"1022"</item>
+        <item>"76"</item>
+        <item>"Blue Ray disc"</item>
+        <item>"windows 98"</item>
+        <item>"Powerful Computer"</item>
+
+
+
+
+    </string-array>
+
+    <string-array name="Compapt_1_answers">
+        <item>"1"</item>
+        <item>"1"</item>
+        <item>"3"</item>
+        <item>"3"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"3"</item>
+        <item>"3"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"3"</item>
+        <item>"2"</item>
+        <item>"2"</item>
+    </string-array>
+
+
+    <string-array name="Compapt_2_Questions">
+
+        <item>"Who developed C language?"</item>
+        <item>"Data is a collection of facts from which ____ may be derived"</item>
+        <item>"CD stands for"</item>
+        <item>"Making and using duplicate hardware and software is called ___"</item>
+        <item>"Full form of LAN ?"</item>
+        <item>"GB stands for"</item>
+        <item>"1 Byte is equal to"</item>
+        <item>"Each computer on net is called a ____?"</item>
+        <item>"What is full form of URL"</item>
+        <item>"Current CEO of twitter?"</item>
+        <item>"Youtube was Launched in the year "</item>
+        <item>"Most downloaded app on Playstore?"</item>
+        <item>"Which city is called silicon valley of india ?"</item>
+        <item>"Which Gates are called the universal gates?"</item>
+        <item>"The IBM chess computer which won against the world chess champion Garry Kasparov ? "</item>
+
+    </string-array>
+
+
+
+    <string-array name="Compapt_2_OptA">
+
+        <item>"Ken thompson"</item>
+        <item>"processing"</item>
+        <item>"Compail Disk"</item>
+        <item>"Piracy"</item>
+        <item>"Line Area Network"</item>
+        <item>"Gigabyte"</item>
+        <item>"2 bit"</item>
+        <item>"Home"</item>
+        <item>"Uniform Resource Locator"</item>
+        <item>"Satya Nadella"</item>
+        <item>"2008"</item>
+        <item>"TikTok"</item>
+        <item>"Hyderabad"</item>
+        <item>"AND , OR "</item>
+        <item>"Deep blue"</item>
+
+    </string-array>
+
+
+    <string-array name="Compapt_2_OptB">
+
+        <item>"Dennis Ritchie"</item>
+        <item>"information"</item>
+        <item>"Compose Disc"</item>
+        <item>"Free copy"</item>
+        <item>"Local Arena Network "</item>
+        <item>"gilobyte"</item>
+        <item>"4 bit"</item>
+        <item>"Host"</item>
+        <item>"Uniform Resource Location"</item>
+        <item>"jack Doresy"</item>
+        <item>"1999"</item>
+        <item>"Facebook"</item>
+        <item>"Chennai"</item>
+        <item>"NAND , AND"</item>
+        <item>"AlphaGo "</item>
+
+    </string-array>
+
+
+    <string-array name="Compapt_2_OptC">
+
+        <item>"linus torvalds"</item>
+        <item>"procedure"</item>
+        <item>"Compact Disc"</item>
+        <item>"Copy right"</item>
+        <item>"Local Area Network "</item>
+        <item>"gigabit"</item>
+        <item>"8 bit"</item>
+        <item>"Node"</item>
+        <item>"Uniform Registry Locator"</item>
+        <item>"Parag Agrawal"</item>
+        <item>"2005"</item>
+        <item>"Instagram"</item>
+        <item>"Bengaluru"</item>
+        <item>"NAND , NOR "</item>
+        <item>"Black Box AI"</item>
+
+    </string-array>
+
+
+    <string-array name="Compapt_2_OptD">
+
+        <item>Guido van Rossum""</item>
+        <item>"instruction"</item>
+        <item>"All of these"</item>
+        <item>"None of these"</item>
+        <item>"Line Arena network"</item>
+        <item>"Gilobit"</item>
+        <item>"16 bit"</item>
+        <item>"Clint"</item>
+        <item>"Uniform Registry Location"</item>
+        <item>"Shantanu Narayen"</item>
+        <item>"2000"</item>
+        <item>"WhatsApp"</item>
+        <item>"Noida"</item>
+        <item>"XOR , XNOR"</item>
+        <item>"Sophia "</item>
+
+    </string-array>
+
+    <string-array name="Compapt_2_answers">
+
+        <item>"2"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"1"</item>
+        <item>"3"</item>
+        <item>"1"</item>
+        <item>"3"</item>
+        <item>"3"</item>
+        <item>"1"</item>
+        <item>"3"</item>
+        <item>"3"</item>
+        <item>"1"</item>
+        <item>"3"</item>
+        <item>"3"</item>
+        <item>"1"</item>
+
+    </string-array>
+
+
+
+    <string-array name="Sprtapt_1_Questions">
+        <item>"In which sport, would you hear the terms serve, dig and spike?"</item>
+        <item>"In Polo, what is used to hit the ball?"</item>
+        <item>"Which chess piece can only move diagonally?"</item>
+        <item>"In sport, what can be a maximum of 38 inches long and 4 inches wide?"</item>
+        <item>"Modern cricket was first played at ___."</item>
+        <item>"How many players are there on a Basket ball Team?"</item>
+        <item>"First Modern Olympics held in the ___ year"</item>
+        <item>"How many medals India got in the First Olympic game in 1896?"</item>
+        <item>"In which year was Cricket included as a competition in Olympics ?"</item>
+        <item>"How many squares are there in chess board?"</item>
+        <item>"How often were the ancient Olympic Games held?"</item>
+        <item>"Who was the first batsman to score 30 Test centuries in cricket?"</item>
+        <item>"The Dronacharya Award' is given to ___."</item>
+        <item>"Which of the following games is not included in the Olympic Games?"</item>
+        <item>"What is the name of the person that controls a football match?"</item>
+
+
+    </string-array>
+
+    <string-array name="Sprtapt_1_optA">
+        <item>"Volleyball"</item>
+        <item>"Bat"</item>
+        <item>"Horse"</item>
+        <item>"Cricket bat"</item>
+        <item>"UK"</item>
+        <item>"6"</item>
+        <item>"1847"</item>
+        <item>"5"</item>
+        <item>"1911"</item>
+        <item>"58"</item>
+        <item>"4 years"</item>
+        <item>"bob willis"</item>
+        <item>"Sportsman"</item>
+        <item>"Skiing"</item>
+        <item>"A referee"</item>
+
+
+    </string-array>
+
+    <string-array name="Sprtapt_1_optB">
+        <item>""Hand ball</item>
+        <item>"Mallet"</item>
+        <item>"Queen"</item>
+        <item>"tennis bat"</item>
+        <item>"West Indies"</item>
+        <item>"7"</item>
+        <item>"1839"</item>
+        <item>"no medal"</item>
+        <item>"Was not included "</item>
+        <item>"52"</item>
+        <item>"5 years"</item>
+        <item>"alan lamb"</item>
+        <item>"Coaches"</item>
+        <item>"Cycling"</item>
+        <item>"A umpire "</item>
+
+
+    </string-array>
+
+    <string-array name="Sprtapt_1_optC">
+        <item>Cricket</item>
+        <item>"Iorn Rod"</item>
+        <item>"Bishop"</item>
+        <item>"Hockey bat"</item>
+        <item>"india"</item>
+        <item>"5"</item>
+        <item>"1896"</item>
+        <item>"1"</item>
+        <item>"1900"</item>
+        <item>"64"</item>
+        <item>"One year"</item>
+        <item>"Sunil Gavaskar"</item>
+        <item>"Sports Editor"</item>
+        <item>"Cricket"</item>
+        <item>"A Spectator"</item>
+
+
+    </string-array>
+
+    <string-array name="Sprtapt_1_optD">
+        <item>"Basket Ball"</item>
+        <item>"Hand"</item>
+        <item>"king"</item>
+        <item>"soft ball"</item>
+        <item>"Australia"</item>
+        <item>"9"</item>
+        <item>"1879"</item>
+        <item>"Didn't participated"</item>
+        <item>"1907"</item>
+        <item>"63"</item>
+        <item>"3 years"</item>
+        <item>"Sachin Tendulkar"</item>
+        <item>"Umpires"</item>
+        <item>"Archery"</item>
+        <item>"A coach"</item>
+
+
+    </string-array>
+
+    <string-array name="Sprtapt_1_answers">
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"1"</item>
+        <item>"1"</item>
+        <item>"3"</item>
+        <item>"3"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"3"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"1"</item>
+    </string-array>
+    
+    
+    <string-array name="Sprtapt_2_Questions">
+        <item>"Usain Bolt is considered as the greatest sprinter of all times. Which country he belongs?"</item>
+        <item>"Who is the first Indian female boxer to win a gold medal in the Asian Games?"</item>
+        <item>"Who becomes the first cricketer who has hit the six sixes in an over in one day international (50_50) cricket ?"</item>
+        <item>"Who is the first indian women to get an olympic medal?"</item>
+        <item>"How many medals did India won in Tokyo Olympics 2020?"</item>
+        <item>"In which of these cities the famous 'Eden Garden' stadium is located? "</item>
+        <item>"The book 'Stright from the heart' has been written by which of the following sports personality? "</item>
+        <item>"What is date of National Sports Day?"</item>
+        <item>"Who was the 1st test Captain of Indian national cricket team ?"</item>
+        <item>"Who has the Highest Number of Gold Medals in Olympic History?"</item>
+        <item>"What is the 100m World Record of Usain Bolt?"</item>
+        <item>"What is the National Sports of China?"</item>
+        <item>" Which Country Won the most FIFA World Cup?"</item>
+        <item>"What is the Full Name of the Famous Football Player Ronaldo?"</item>
+        <item>" What is the Number of Players in Hockey?"</item>
+
+    </string-array>
+
+    <string-array name="Sprtapt_2_optA">
+        <item>"USA"</item>
+        <item>"Pinki Jangra"</item>
+        <item>"Kieron Pollard"</item>
+        <item>"P.T usha"</item>
+        <item>"1"</item>
+        <item>"Mumbai"</item>
+        <item>"Sunil Gavaskar"</item>
+        <item>"October 031"</item>
+        <item>"Nawab mansoor ali khan "</item>
+        <item>"Larisa Latynina"</item>
+        <item>"14.35 Sec"</item>
+        <item>"Table Tennis"</item>
+        <item>"Germany"</item>
+        <item>"Cristiano Santos Ronaldo"</item>
+        <item>"10"</item>
+
+    </string-array>
+
+    <string-array name="Sprtapt_2_optB">
+        <item>"Africa"</item>
+        <item>"Mary Kom"</item>
+        <item>"Herschella gibs"</item>
+        <item>"Sania Mirza"</item>
+        <item>"5"</item>
+        <item>"Delhi"</item>
+        <item>"Imran khan"</item>
+        <item>"February 22"</item>
+        <item>"nawab pataudi senior"</item>
+        <item>"Mark Spitz"</item>
+        <item>"9.58 Sec"</item>
+        <item>"Baseball"</item>
+        <item>"Argentina"</item>
+        <item>"Cristiano Ronaldo Santos Aveiro"</item>
+        <item>"11"</item>
+
+    </string-array>
+
+    <string-array name="Sprtapt_2_optC">
+        <item>"Nigeria"</item>
+        <item>"Manisha moun"</item>
+        <item>"Yuvraj singh"</item>
+        <item>"Aarthi saha"</item>
+        <item>"7"</item>
+        <item>"Jaipur"</item>
+        <item>"Sachin tendulkar"</item>
+        <item>"August 29"</item>
+        <item>"C.K Nayudu"</item>
+        <item>"Michael Phelps"</item>
+        <item>"9.05 Sec"</item>
+        <item>"Swimming"</item>
+        <item>"Brazil"</item>
+        <item>"Cristiano Ronaldo dos Santos Aveiro"</item>
+        <item>"12"</item>
+
+    </string-array>
+
+    <string-array name="Sprtapt_2_optD">
+        <item>"Jamaica"</item>
+        <item>"Simranjit Kaur"</item>
+        <item>"viv richards"</item>
+        <item>"Karnam Malleswari"</item>
+        <item>"3"</item>
+        <item>"Kolkata"</item>
+        <item>"Kapil dev"</item>
+        <item>"January 5"</item>
+        <item>"Lala Amarnath"</item>
+        <item>"Saina Nehwal"</item>
+        <item>"10.12 Sec"</item>
+        <item>"Shooting"</item>
+        <item>"France"</item>
+        <item>"Cristiano  dos Ronaldo "</item>
+        <item>"9"</item>
+
+    </string-array>
+
+    <string-array name="Sprtapt_2_answers">
+        <item>"4"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"4"</item>
+        <item>"3"</item>
+        <item>"3"</item>
+        <item>"3"</item>
+        <item>"2"</item>
+        <item>"1"</item>
+        <item>"3"</item>
+        <item>"3"</item>
+        <item>"2"</item>
+    </string-array>
+
+    <string-array name="Physapt_1_Questions">
+        <item>"The famoue equation E=mc² was invented by?"</item>
+        <item>"Formula of force is ?"</item>
+        <item>"A scalar quantity possess ? "</item>
+        <item>"When a car takes a sudden left turn, Passengers are pushed towards the right due to ?"</item>
+        <item>"Force acting on the particle moving with a constant speed is ?"</item>
+        <item>"Forece equals mass times acceleration is newton's which law  "</item>
+        <item>"A 1kg ball and a feather is dropped in a full vacuum chamber in earth . Which touches the bottom first? "</item>
+        <item>"Who is the Father of physice ?"</item>
+        <item>"With an increase in temperature the viscosity of liquid and gas, respectively will "</item>
+        <item>"With an increase in temperature the resistance of a copper wire ? "</item>
+        <item>"Two identical rooms A and B  are connected with a door if Room A is ari conditioned such that it is 4 degree celsius lower than room B. Which room has more air in it?"</item>
+        <item>"Marie Curie Discovered ? "</item>
+        <item>"who discovered that earth is round"</item>
+        <item>"who discovered that earth revolves around the sun"</item>
+        <item>"Biggest planet in solar system"</item>
+
+    </string-array>
+
+    <string-array name="Physapt_1_optA">
+        <item>"Newton"</item>
+        <item>"force x distance"</item>
+        <item>"Only magnitude"</item>
+        <item>"Inertia of direction"</item>
+        <item>"Always zero"</item>
+        <item>"Newton's 1st law"</item>
+        <item>"1kg Ball"</item>
+        <item>"Newton"</item>
+        <item>"Increase , increase "</item>
+        <item>"Increases"</item>
+        <item>"Room A "</item>
+        <item>"Uranium"</item>
+        <item>"Copernicus"</item>
+        <item>"Copernicus"</item>
+        <item>"Neptune"</item>
+
+    </string-array>
+
+    <string-array name="Physapt_1_optB">
+        <item>"Carl sagan"</item>
+        <item>"mass x velocity"</item>
+        <item>"Only direction "</item>
+        <item>"inertia of motion"</item>
+        <item>"need not be zero"</item>
+        <item>"Newton's 2nd law"</item>
+        <item>"feather "</item>
+        <item>"Albert Einstein"</item>
+        <item>"increase, decrease"</item>
+        <item>"Decreases"</item>
+        <item>"Room B"</item>
+        <item>"Radium"</item>
+        <item>"Galilieo Galilie"</item>
+        <item>"Galilieo Galilie"</item>
+        <item>"uranus"</item>
+
+    </string-array>
+
+    <string-array name="Physapt_1_optC">
+        <item>"Stephen Hawkings"</item>
+        <item>"mass x distance"</item>
+        <item>"both magnitude and direction"</item>
+        <item>"inertia of rest"</item>
+        <item>"always non zero"</item>
+        <item>"Newton's 3rd law"</item>
+        <item>"both at same time "</item>
+        <item>"Galileo Galilei"</item>
+        <item>"decrease, increase"</item>
+        <item>"Stays the same "</item>
+        <item>"Both same "</item>
+        <item>"Mercury"</item>
+        <item>"Ptolemy"</item>
+        <item>"Ptolemy"</item>
+        <item>"Jupiter"</item>
+
+    </string-array>
+
+    <string-array name="Physapt_1_optD">
+        <item>"Albert Einstein"</item>
+        <item>"mass x acceleration"</item>
+        <item>"none"</item>
+        <item>"absence of inertia"</item>
+        <item>"cannot be concluded"</item>
+        <item>"not newton's law"</item>
+        <item>"undefined "</item>
+        <item>"all three above "</item>
+        <item>"decrease, decrease"</item>
+        <item>"depends on wire"</item>
+        <item>"Cannot be determined"</item>
+        <item>"Molybdenum"</item>
+        <item>"Pythagoras"</item>
+        <item>"Pythagoras"</item>
+        <item>"Saturn"</item>
+
+    </string-array>
+
+    <string-array name="Physapt_1_answers">
+        <item>"4"</item>
+        <item>"4"</item>
+        <item>"1"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"3"</item>
+        <item>"1"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"4"</item>
+        <item>"1"</item>
+        <item>"3"</item>
+
+    </string-array>
+
+    <string-array name="Physapt_2_Questions">
+        <item>"The shape of our milky way galaxy is ? "</item>
+        <item>"Many Asteroids revolve around the sun between which of the following two planets ? "</item>
+        <item>"What was the name of the space shuttle that landed man on the moon for the first time ?"</item>
+        <item>"The energy emitted by the sun is due to ?"</item>
+        <item>" ___ is used to manufacture of the filament of an electric bulb"</item>
+        <item>"A light year is the measure of ?"</item>
+        <item>"Speed of sound is greatest in "</item>
+        <item>"Speed of sound in air is ?"</item>
+        <item>"A falling drop of rain acquires the spherical shape due to ?"</item>
+        <item>"Nearest galaxy to our milky way is ?"</item>
+        <item>"Which is weakest force in nature "</item>
+        <item>"Albert einstein got nobel price for which of his findings?"</item>
+        <item>"Light from sun reaches earth in approximately in ?"</item>
+        <item>"Which physicists is the writer of the book 'A brief history of time' ?"</item>
+        <item>"God particle is "</item>
+
+
+    </string-array>
+
+    <string-array name="Physapt_2_optA">
+        <item>"circular"</item>
+        <item>"Earth and Marse"</item>
+        <item>"Sputnik"</item>
+        <item>"Chemical reaction"</item>
+        <item>"Tin"</item>
+        <item>"speed "</item>
+        <item>"water"</item>
+        <item>"350 m/s"</item>
+        <item>"Viscosity "</item>
+        <item>"orion"</item>
+        <item>"strong interaction"</item>
+        <item>"Gravitational waves"</item>
+        <item>"3 minutes"</item>
+        <item>"Isaac newton"</item>
+        <item>"Neutrino"</item>
+
+    </string-array>
+
+    <string-array name="Physapt_2_optB">
+        <item>"elliptical"</item>
+        <item>"mars and jupiter"</item>
+        <item>"Columbia"</item>
+        <item>"nuclear fission"</item>
+        <item>"Tungsten"</item>
+        <item>"distance "</item>
+        <item>"air"</item>
+        <item>"500 m/s"</item>
+        <item>"Surface tension"</item>
+        <item>"alindas"</item>
+        <item>"weak interaction"</item>
+        <item>"photoelectric effect"</item>
+        <item>"8 minutes"</item>
+        <item>"hans bethe"</item>
+        <item>"Higgs Boson"</item>
+
+    </string-array>
+
+    <string-array name="Physapt_2_optC">
+        <item>"spiral"</item>
+        <item>"jupiter and saturn"</item>
+        <item>"Challenger"</item>
+        <item>"Nuclear fusion"</item>
+        <item>"Magnesium"</item>
+        <item>"time "</item>
+        <item>"glass"</item>
+        <item>"200 m/s"</item>
+        <item>"atmospheric preassure"</item>
+        <item>"Andromeda"</item>
+        <item>"gravity"</item>
+        <item>"Theory of relativity"</item>
+        <item>"10 minutes "</item>
+        <item>"albert einstein"</item>
+        <item>"Meson"</item>
+
+    </string-array>
+
+    <string-array name="Physapt_2_optD">
+        <item>"none of the above "</item>
+        <item>"saturn and uranus "</item>
+        <item>"Apollo"</item>
+        <item>"all the above"</item>
+        <item>"Copper"</item>
+        <item>"temperature "</item>
+        <item>"glycerine"</item>
+        <item>"800 m/s"</item>
+        <item>"Gravitational force"</item>
+        <item>"Floras"</item>
+        <item>"Electromagnetic"</item>
+        <item>"Universal speed limit"</item>
+        <item>"12 minutes"</item>
+        <item>"stephen hawkings"</item>
+        <item>"Proton"</item>
+
+    </string-array>
+
+    <string-array name="Physapt_2_answers">
+        <item>"3"</item>
+        <item>"2"</item>
+        <item>"4"</item>
+        <item>"3"</item>
+        <item>"2"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"3"</item>
+        <item>"2"</item>
+        <item>"2"</item>
+        <item>"4"</item>
+        <item>"2"</item>
+
+    </string-array>
+
+    <string-array name="Physapt_3_Questions">
+        <item>"Sunlight consist of how many colors ? "</item>
+        <item>"The speed at which light travels in vacuum is ?"</item>
+        <item>"the space telescope launched by nasa in 2021 was  ? "</item>
+        <item>"The age of this universe is ___  years ? "</item>
+        <item>"mars is called as a red planet because it has a lot of ___ in its ground?"</item>
+        <item>"The largest valcono in the solar system Olympus Mons is in which planet?"</item>
+        <item>"What name is given to the imaginary line around earth's middle ?"</item>
+        <item>"What is the first spacecraft lauced by humans ? "</item>
+        <item>"which was India's first satellite ? "</item>
+        <item>"smallest particle in the world"</item>
+        <item>"Pencil 'lead ' is made up of ?"</item>
+        <item>"The acceleration due to gravity is zero at"</item>
+        <item>"A man presses more weight on earth at :"</item>
+        <item>"Pascal is the unit for"</item>
+        <item>"in which year pluto was declared as dwarf planet"</item>
+    </string-array>
+
+    <string-array name="Physapt_3_optA">
+        <item>"infinity "</item>
+        <item>"5 x 10⁴ m/s"</item>
+        <item>"Hubble space telescope"</item>
+        <item>"10.8 billion"</item>
+        <item>"Rusty iron"</item>
+        <item>"uranus"</item>
+        <item>"tropic of cancer"</item>
+        <item>"explorer 1 "</item>
+        <item>"Bhaskara Sega-I"</item>
+        <item>"electron"</item>
+        <item>"Graphite"</item>
+        <item>"poles"</item>
+        <item>"Sitting position"</item>
+        <item>"thrust"</item>
+        <item>"1999"</item>
+    </string-array>
+
+    <string-array name="Physapt_3_optB">
+        <item>"three "</item>
+        <item>"3 x 10⁸ m/s"</item>
+        <item>"kepler space telescope"</item>
+        <item>"8 billion "</item>
+        <item>"red soil "</item>
+        <item>"venus"</item>
+        <item>"Tropic of capricon"</item>
+        <item>"sputnik 1 "</item>
+        <item>"Rohini RS-1"</item>
+        <item>"leptons"</item>
+        <item>"charcole"</item>
+        <item>"equator"</item>
+        <item>"standing position"</item>
+        <item>"preassure"</item>
+        <item>"2010"</item>
+    </string-array>
+
+    <string-array name="Physapt_3_optC">
+        <item>"seven "</item>
+        <item>"3 x 10¹⁴ m/s"</item>
+        <item>"james webb space telescope"</item>
+        <item>"13.7 billion "</item>
+        <item>"red gemstones"</item>
+        <item>"mars"</item>
+        <item>"Greenwich meridian"</item>
+        <item>"pioneer 1 "</item>
+        <item>"Aryabhatta"</item>
+        <item>"Quarks"</item>
+        <item>lead oxide""</item>
+        <item>"center of earth"</item>
+        <item>"lying position"</item>
+        <item>"frequency"</item>
+        <item>"2017"</item>
+    </string-array>
+
+    <string-array name="Physapt_3_optD">
+        <item>"one"</item>
+        <item>"5 x 10⁻⁴ m/s"</item>
+        <item>"Spitzer Space Telescope"</item>
+        <item>"12.3 billion "</item>
+        <item>"red phosphorus "</item>
+        <item>"Jupiter"</item>
+        <item>"Equator"</item>
+        <item>"voyager 1 "</item>
+        <item>"Bhaskara-I"</item>
+        <item>"neutrinos"</item>
+        <item>"lampblack"</item>
+        <item>"none of these"</item>
+        <item>"none of these"</item>
+        <item>"conductivity"</item>
+        <item>"2006"</item>
+    </string-array>
+
+    <string-array name="Physapt_3_answers">
+        <item>"3"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"3"</item>
+        <item>"1"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"3"</item>
+        <item>"1"</item>
+        <item>"3"</item>
+        <item>"2"</item>
+        <item>"2"</item>
+        <item>"4"</item>
+    </string-array>
+
+
+    <string-array name="Compapt_3_Questions">
+        <item>"SQL stands for ? "</item>
+        <item>"Which of the element is primery element in computer chips ? "</item>
+        <item>"CRT is a type of digital display . what does CRT stands for?"</item>
+        <item>"Full form of OTP is ?"</item>
+        <item>"Dot matrix is a type of ? "</item>
+        <item>"The name of the location of a particular piece of data is its ____?"</item>
+        <item>"which of the following is the file extension for word document?"</item>
+        <item>"in binary 1+1 = ? "</item>
+        <item>"the base of a hexadecimal humber is ?"</item>
+        <item>"We use SIM in most of our phones . what is the full form of SIM ? "</item>
+        <item>"The speed of clock frequency of microprocessor is measured in ? "</item>
+        <item>"1024 GB = "</item>
+        <item>"Shortcut key for refresh in windows is ?"</item>
+        <item>"USB is the acronym for ?"</item>
+        <item>"bit stands for?"</item>
+
+    </string-array>
+
+    <string-array name="Compapt_3_optA">
+        <item>"Structured query language"</item>
+        <item>"copper"</item>
+        <item>"Combained Right Tracing"</item>
+        <item>"online transwer protocol"</item>
+        <item>"plotter"</item>
+        <item>"Address"</item>
+        <item>".docx"</item>
+        <item>"10"</item>
+        <item>"6"</item>
+        <item>"service intake mobile"</item>
+        <item>"CPS"</item>
+        <item>"1 exa byte "</item>
+        <item>"f4"</item>
+        <item>"united serial bus"</item>
+        <item>"binary digit"</item>
+
+    </string-array>
+
+    <string-array name="Compapt_3_optB">
+        <item>"Storage query language"</item>
+        <item>"carbon"</item>
+        <item>"Crystal ray tracing"</item>
+        <item>"one time password"</item>
+        <item>"printer"</item>
+        <item>"data location"</item>
+        <item>".txt"</item>
+        <item>"2"</item>
+        <item>"12"</item>
+        <item>"subscriber identity mobile"</item>
+        <item>"hertz"</item>
+        <item>"1 peta byte"</item>
+        <item>"f2"</item>
+        <item>"uniform service bus"</item>
+        <item>"binary internet"</item>
+
+    </string-array>
+
+    <string-array name="Compapt_3_optC">
+        <item>"Structured query list "</item>
+        <item>"iorn"</item>
+        <item>"Cathode ray tube"</item>
+        <item>"online tracing procedure"</item>
+        <item>"tape "</item>
+        <item>"storage sits"</item>
+        <item>".fil"</item>
+        <item>"11"</item>
+        <item>"8"</item>
+        <item>"search information mannule"</item>
+        <item>"bits"</item>
+        <item>"1 giga byte "</item>
+        <item>"f5"</item>
+        <item>"universal serial bus"</item>
+        <item>"before initial task"</item>
+
+    </string-array>
+
+    <string-array name="Compapt_3_optD">
+        <item>"Storage query list"</item>
+        <item>"silicon"</item>
+        <item>"Constant ray tracing"</item>
+        <item>"on timed protocol"</item>
+        <item>"bit rate"</item>
+        <item>"memory name"</item>
+        <item>".wrd"</item>
+        <item>"1"</item>
+        <item>"16"</item>
+        <item>"server intake manager"</item>
+        <item>"bytes"</item>
+        <item>"1 terra byte"</item>
+        <item>"f9"</item>
+        <item>"universal service bit"</item>
+        <item>"bios info task"</item>
+
+    </string-array>
+
+    <string-array name="Compapt_3_answers">
+        <item>"1"</item>
+        <item>"4"</item>
+        <item>"3"</item>
+        <item>"2"</item>
+        <item>"2"</item>
+        <item>"1"</item>
+        <item>"1"</item>
+        <item>"1"</item>
+        <item>"4"</item>
+        <item>"2"</item>
+        <item>"2"</item>
+        <item>"4"</item>
+        <item>"3"</item>
+        <item>"3"</item>
+        <item>"1"</item>
+
+    </string-array>
+
+    <string-array name="Sprtapt_3_Questions">
+        <item>"How many nations had participated in the first Olympic Games held in 1896?"</item>
+        <item>"Who was beaten by IBM's chess playing computer ?"</item>
+        <item>"Biggest cricket stadium in the world ?"</item>
+        <item>The famous Lewis Hamilton belongs to which sport ?""</item>
+        <item>"What is Virat Kohli's for india Jersey number?"</item>
+        <item>"How many times has India won the Men’s Hockey World Cup in the Olympics?"</item>
+        <item>"Which Sport is Performed by the Legend “Muhammad Ali”?"</item>
+        <item>"What is the National Game of the USA?"</item>
+        <item>"Which Sport is Valentino Rossi Known for?"</item>
+        <item>"Where did Chess Game Originate from?"</item>
+        <item>"What do the 5 Rings in the Olympic Flag represent?"</item>
+        <item>"Which was the first Sport played on the Moon?"</item>
+        <item>"In 1972 summer olympics a terrorist group took which country's olympic team as hostage and ended up killing 11 athelets ?"</item>
+        <item>"How many Umpires are there in a Cricket Match?"</item>
+        <item>"The Sport “Jallikattu” belongs to which Country?"</item>
+    </string-array>
+
+    <string-array name="Sprtapt_3_optA">
+        <item>"20"</item>
+        <item>"Garry Kasparov"</item>
+        <item>"Melbourne cricket stadium"</item>
+        <item>"gymnastics"</item>
+        <item>"21"</item>
+        <item>"3"</item>
+        <item>"weight lifting"</item>
+        <item>"Rugby"</item>
+        <item>"Swimming"</item>
+        <item>"Persia"</item>
+        <item>"5 Cities"</item>
+        <item>"golf"</item>
+        <item>"israle"</item>
+        <item>"3"</item>
+        <item>"china"</item>
+    </string-array>
+
+    <string-array name="Sprtapt_3_optB">
+        <item>"35"</item>
+        <item>"magnus carlsen"</item>
+        <item>"narendra modi stadium"</item>
+        <item>"fensing"</item>
+        <item>"24"</item>
+        <item>"2"</item>
+        <item>"boxing"</item>
+        <item>"basket ball"</item>
+        <item>cycling""</item>
+        <item>"India"</item>
+        <item>"5 continents"</item>
+        <item>"tennis"</item>
+        <item>"germany"</item>
+        <item>"2"</item>
+        <item>"sri lanka"</item>
+    </string-array>
+
+    <string-array name="Sprtapt_3_optC">
+        <item>"14"</item>
+        <item>"viswananthan Anand"</item>
+        <item>"eden garden"</item>
+        <item>"F1 racing"</item>
+        <item>"18"</item>
+        <item>"4"</item>
+        <item>"swimming"</item>
+        <item>"baseball"</item>
+        <item>"formula one"</item>
+        <item>"China"</item>
+        <item>"5 countries"</item>
+        <item>"chess"</item>
+        <item>"austria"</item>
+        <item>"1"</item>
+        <item>"bangladesh"</item>
+    </string-array>
+
+    <string-array name="Sprtapt_3_optD">
+        <item>"63"</item>
+        <item>"bobby fischer"</item>
+        <item>"perth stadium"</item>
+        <item>"chss"</item>
+        <item>"45"</item>
+        <item>"1"</item>
+        <item>"Karate"</item>
+        <item>"tennis"</item>
+        <item>"motorcycle racing"</item>
+        <item>"USA"</item>
+        <item>"5 sports"</item>
+        <item>"ludo"</item>
+        <item>"denmark"</item>
+        <item>"4"</item>
+        <item>"india"</item>
+    </string-array>
+
+    <string-array name="Sprtapt_3_answers">
+        <item>"3"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"2"</item>
+        <item>"2"</item>
+        <item>"1"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"4"</item>
+    </string-array>
+
+
+
+
+
+
+
+</resources>

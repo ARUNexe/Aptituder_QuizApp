@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blackbackground"
+    android:foregroundTint="#D5D2D2"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    tools:visibility="visible">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="328dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="174dp"
+            app:srcCompat="@drawable/calulatorandrular" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="72dp"
+            android:background="@drawable/titlerounder"
+            android:fontFamily="@font/font1"
+            android:paddingTop="15dp"
+            android:layout_marginTop="-10dp"
+            android:text="Aptituder"
+            android:textAlignment="center"
+            android:textColor="#71505A"
+            android:textSize="48sp" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/NumApt"
+        android:layout_width="355dp"
+        android:layout_height="69dp"
+        android:layout_gravity="center"
+        android:background="@drawable/roundedbuttons"
+        android:fontFamily="@font/data_latin"
+        android:gravity="center"
+        android:text="Numerical Aptitude"
+        android:textAlignment="center"
+        android:textColor="#FDFDFD"
+        android:textSize="24sp"
+        android:visibility="visible"
+        app:backgroundTint="#061B1B" />
+
+    <Button
+        android:id="@+id/CompApt"
+        android:layout_width="355dp"
+        android:layout_height="69dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/roundedbuttons"
+        android:fontFamily="@font/data_latin"
+        android:gravity="center"
+        android:text="COMPUTER SCIENCE"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        app:backgroundTint="#1b2928" />
+
+
+    <Button
+        android:id="@+id/SprtApt"
+        android:layout_width="355dp"
+        android:layout_height="69dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/roundedbuttons"
+        android:fontFamily="@font/data_latin"
+        android:gravity="center"
+        android:text="Sports"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        app:backgroundTint="#1b2928" />
+
+    <Button
+        android:id="@+id/PhysApt"
+        android:layout_width="355dp"
+        android:layout_height="69dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/roundedbuttons"
+        android:fontFamily="@font/data_latin"
+        android:gravity="center"
+        android:text="Physics"
+        android:textColor="#FFFBFB"
+        android:textSize="24sp"
+        app:backgroundTint="#1b2928" />
+
+
+
+</LinearLayout>

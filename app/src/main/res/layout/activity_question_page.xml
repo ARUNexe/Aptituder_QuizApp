@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blackbackground"
+    android:orientation="vertical"
+    tools:context=".QuestionPage">
+
+    <TextView
+        android:id="@+id/QuestionTv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="127dp"
+        android:background="@drawable/roundedbuttons"
+        android:backgroundTint="#0d0101"
+        android:paddingLeft="20dp"
+        android:paddingTop="20dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="20dp"
+        android:text=" Answer More than 10 questions out of 15 to unlock next level, You get 3 hint per level , Press next to start the game  "
+        android:textColor="#BFADAD"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/ansA"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/QuestionTv"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="73dp"
+        android:background="@drawable/lessroundedbuttons"
+        android:text="A . It is a sample A"
+        android:textSize="18sp"
+        android:visibility="visible"
+        app:backgroundTint="#263837" />
+
+    <Button
+        android:id="@+id/ansB"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/QuestionTv"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="209dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="73dp"
+        android:background="@drawable/lessroundedbuttons"
+        android:clickable="true"
+        android:text="B . it is a sample B"
+        android:textSize="18sp"
+        app:backgroundTint="#263837" />
+
+    <Button
+        android:id="@+id/ansC"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ansA"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/lessroundedbuttons"
+        android:text="C . it is a sample D"
+        android:textSize="18sp"
+        app:backgroundTint="#263837" />
+
+    <Button
+        android:id="@+id/ansD"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ansB"
+        android:layout_marginStart="209dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/lessroundedbuttons"
+        android:text="D . it is a sample D"
+        android:textSize="18sp"
+        app:backgroundTint="#263837" />
+
+    <TextView
+        android:id="@+id/QuestionNumberTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="14dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="62dp"
+        android:text="Question : 0/15"
+        android:textColor="#D5C5C5"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/HintRemainingTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="257dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="62dp"
+        android:text="Hint : 3/3"
+        android:textColor="#D5C5C5"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/HintBtn"
+        android:layout_width="167dp"
+        android:layout_height="69dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginBottom="44dp"
+        android:text="Hint"
+        android:textSize="20sp"
+        app:backgroundTint="#305435" />
+
+    <Button
+        android:id="@+id/NextBtn"
+        android:layout_width="167dp"
+        android:layout_height="69dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="214dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginBottom="44dp"
+        android:text="Next"
+        android:textSize="20sp"
+        app:backgroundTint="#305435" />
+
+
+</RelativeLayout>
